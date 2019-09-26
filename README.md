@@ -1,7 +1,4 @@
 # liri-app
 spotify and omdb api utilizing axios
 
-<video width="320" height="200" controls preload> 
-    <source src="AwesomeScreenshot-2019-9-25-1569471618802.webm"></source> 
-    <!-- <source src="video.webm"></source>  -->
-</video>
+[![Image from Gyazo](https://i.gyazo.com/31f4e783b9bb8fe843633be161df9c27.gif)](https://gyazo.com/31f4e783b9bb8fe843633be161df9c27)
