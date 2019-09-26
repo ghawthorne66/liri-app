@@ -9,15 +9,6 @@
 2. npm install
 3. cd liri-node-app
 4. Please see `notes` below to run the app 
-5. ENJOY! 
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
 
 ## Tech Used 
 
@@ -37,7 +28,7 @@
 
 Liri will work four different ways which can take in one of the following commands:
 
-* `concert-this'
+* `concert-this`
 
 * `spotify-this-song`
 
@@ -69,6 +60,3 @@ node liri.js movie-this
 * Plot of the movie.
 * Actors in the movie.
 * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-
-node liri.js do-what-it-says
-* This uses the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
