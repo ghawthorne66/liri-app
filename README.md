@@ -1,11 +1,7 @@
 # liri-app
-spotify and omdb api utilizing axios
 
-<img src="/1f4e783b9bb8fe843633be161df9c27.gif" alt="Node-Liri-App" style="max-width:100%;">
-## 
 
 ![Node-Liri-App](assets/screenshot.gif)
-
 
 ## Usage
 
@@ -35,11 +31,8 @@ spotify and omdb api utilizing axios
 
 ## License
 
-N/A
 
 ##Notes 
-
-* LIRI will display your latest tweets. If you dont have a Twitter account it will default to my Twitter if no parameters are inputted
 
 
 Liri will work four different ways which can take in one of the following commands:
