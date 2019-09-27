@@ -1,6 +1,15 @@
 # liri-app
 
 
+[![Image from Gyazo](https://i.gyazo.com/a9ce80850ad1f961c52df5809dba9e70.png)](https://gyazo.com/a9ce80850ad1f961c52df5809dba9e70)
+
+[![Image from Gyazo](https://i.gyazo.com/c1949ce1bd20390ac1eded2dacb09f34.png)](https://gyazo.com/c1949ce1bd20390ac1eded2dacb09f34)
+
+[![Image from Gyazo](https://i.gyazo.com/6c1e749af8bbca214684238e3cbe0791.png)](https://gyazo.com/6c1e749af8bbca214684238e3cbe0791)
+
+[![Image from Gyazo](https://i.gyazo.com/be865572138cb18c5569ddd22aa3fc4e.png)](https://gyazo.com/be865572138cb18c5569ddd22aa3fc4e)
+
+
 ![Node-Liri-App](assets/screenshot.gif)
 
 ## Usage
